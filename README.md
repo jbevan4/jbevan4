@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Josh. 
+
+I'm a software engineer at [Made Tech](https://github.com/madetech). My big driving factors are writing code I'm proud of, delivering value wherever possible and having a culture which enables people to perform at their best.
+
+* 🌱 I’m currently following: Robert Martin's "Coding a Better World Together"
+* 💬 Ask me about: "Space Junk :rocket:"
+
+"A society grows great when old men plant trees whose shade they know they shall never sit in"
+
+The Zen of :snake: should be read by every developer.
 
 <!--
 **jbevan4/jbevan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
