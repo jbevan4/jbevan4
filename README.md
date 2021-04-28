@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Josh. 
 
-I'm a software engineer at [Made Tech](https://github.com/madetech). My big driving factors are writing code I'm proud of, delivering value wherever possible and having a culture which enables people to perform at their best.
+I'm a software engineer at [Curve](https://curve.com/en-gb/). My big driving factors are writing code I'm proud of, delivering value wherever possible and having a culture which enables people to perform at their best.
 
 * 🌱 I’m currently following: Robert Martin's "Coding a Better World Together"
 * 💬 Ask me about: "Space Junk :rocket:"
